@@ -15,7 +15,10 @@ public class Myshopapp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      float dx,float dy,point p)
+      float a=this.setx(x+dx);
+     float b=this.setx(y+dx);
+     System.out.println("p affiche coordonne");
     }
     
 }
