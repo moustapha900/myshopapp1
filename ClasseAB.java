@@ -21,7 +21,7 @@ public class ClasseAB implements InterfaceAB {
 
 	@Override
 	public void methodeB() {
-		System.out.println("Bonsoir azerty  ");
+		System.out.println("Bonsoir");
 		
 	}
  
